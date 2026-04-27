@@ -79,3 +79,5 @@ class BasePage {
     console.log(`ACTION: dang dieu huong toi trang ${this.url}`);
   }
 }
+
+// bai 8
