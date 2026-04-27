@@ -82,3 +82,4 @@ class BasePage {
 
 // bai 8
 // sử dụng vscode
+// pull code về local
